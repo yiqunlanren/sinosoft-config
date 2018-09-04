@@ -1,0 +1,2 @@
+# sinosoft-config
+xdiamond-client
